@@ -1,3 +1,5 @@
+<!-- css -->
+<link rel="stylesheet" href="theme.css">
 
 ## <span style="color:green;">유레카 프로젝트 6조</span>  
 A creative way to encourage everyone to think and share ideas.
