@@ -6,7 +6,8 @@ A creative way to encourage everyone to think and share ideas.
 <!-- slogan 
  슬로건 선정 이유 등 간단한 설명 필요-->
 ### <span style="color:orange;">Team Slogan</span>
-- 학부생으로서의 도전,  유레카 프로젝트에서 확립
+:bulb: 학부생으로서의 도전,  유레카 프로젝트에서 확립
+
 ![teamslogan](images/teamslogan.png)
 
 
