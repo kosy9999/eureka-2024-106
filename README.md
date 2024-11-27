@@ -1,18 +1,4 @@
-
-
-
-
-# Welcome to GitHub
-
-유레카 프로젝트 팀 생성을 축하합니다...
-
-**팀페이지 주소** -> https://kookmin-sw-eureka.github.io/ '{{분반 및 자신의 팀 번호}'
-
-**예시)** 2024년 1분반 1조  https://kookmin-sw-eureka.github.io/eureka-2024-106
-
 #내부
-# <span style="color:blue;">MDM Company</span>
-
 ## <span style="color:green;">유레카 프로젝트 6조</span>  
 A creative way to encourage everyone to think and share ideas.
 
