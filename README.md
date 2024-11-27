@@ -68,16 +68,13 @@ A creative way to encourage everyone to think and share ideas.
 ---
 
 <!-- 각자 소감 정리 -->
-##활동 소감
+## 활동 소감
 
 ---
+
 ## <span style="color:orange;">감사합니다!</span>  
 **Thank You!**  
 유레카 프로젝트 6조
-
-
-
-
 
 ## Markdown을 사용하여 내용꾸미기
 
