@@ -15,22 +15,22 @@ A creative way to encourage everyone to think and share ideas.
 
 ## 팀원 소개  
 
-### <span style="color:red;">박상현</span>
+### <span style="color:orange;">박상현</span>
 - **성격 유형**: <span style="color:blue;">ENTJ</span>  
 - **관심사**: 여행, 풍경, 독서  
 - **기타**: KOSS  
 
-### <span style="color:red;">고신영</span>   
+### <span style="color:orange;">고신영</span>   
 - **성격 유형**: <span style="color:blue;">INFJ</span>  
 - **관심사**: 운동, 베이스 기타 치기  
 - **특기**: AI를 활용한 생체 데이터 분석  
 
-### <span style="color:red;">오주엽</span>  
+### <span style="color:orange;">오주엽</span>  
 - **성격 유형**: <span style="color:blue;">ENTP</span>  
 - **관심사**: 게임  
 - **활동**: 정보보호연구실 학부 연구생  
 
-### <span style="color:red;">김예향</span>  
+### <span style="color:orange;">김예향</span>  
 - **성격 유형**: <span style="color:blue;">ISTJ</span>  
 - **관심사**: 여행, 계획 세우기  
 - **특기**: AI-CV 분야 프로젝트 진행 중  
