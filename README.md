@@ -4,10 +4,10 @@ A creative way to encourage everyone to think and share ideas.
 
 ---
 
-## <span style="color:purple;">“EUREKA”</span>  
 ### <span style="color:orange;">Team Slogan</span>  
 학부생으로서의 도전,  
-유레카 프로젝트에서 확립  
+유레카 프로젝트에서 확립
+![teamslogan](teamslogan.png)
 
 ---
 
