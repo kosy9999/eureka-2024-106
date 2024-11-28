@@ -1,5 +1,6 @@
-<!-- CSS --> 
+<!-- CSS 
 <link rel="stylesheet" href="theme.css">
+-->
 
 ## <span style="color:green;">유레카 프로젝트 6조</span>  
 A creative way to encourage everyone to think and share ideas.
@@ -49,24 +50,32 @@ A creative way to encourage everyone to think and share ideas.
 
 ---
 
-## 팀원의 특이한 관심사  
-
-- <span style="color:brown;">IDS, IPS</span>  
+## 공통적인 관심사  
+<div class="container">
+ 1. AI
+ 2. 정보보안
+ 3. 대학원 등의 추가 학위 취득에 관해
+</div>  
 
 ---
 
 <!-- 주요 활동 소개
   사진 + 정리 필요-->
 ## 주요 활동 소개  
-
-1. 교수님과의 면담 - 윤상민 교수님  
-2. 대학원생 면담  
-3. 행정실 방문  
+### 인상깊었던 활동 1
+ - 교수님과의 면담 - 윤상민 교수님 -   
+ 면담 목적
+ 주요 질문
+ 답변
+ 짧은 소감
+  
 ---
 
 <!-- 알게된 것들 -->
 ## 그 외의 활동으로 알게 된 것들
-
+ 1. GPU 서버사용
+ 2. 자율주행 경진대회
+ 3. 멘토링 시스템
 
 ---
 
