@@ -20,24 +20,24 @@ A creative way to encourage everyone to think and share ideas.
 ---
 <!-- 팀원에 대한 간단한 소개 -->
 
-## 팀원 소개  
+## <span style="color:orange;">팀원 소개</span> 
 
-### <span style="color:orange;">박상현</span>
+### 박상현
 - **성격 유형**: <span style="color:blue;">ENTJ</span>  
 - **관심사**: 여행, 풍경, 독서  
 - **기타**: KOSS  
 
-### <span style="color:orange;">고신영</span>   
+### 고신영   
 - **성격 유형**: <span style="color:blue;">INFJ</span>  
 - **관심사**: 운동, 베이스 기타 치기  
 - **특기**: AI를 활용한 생체 데이터 분석  
 
-### <span style="color:orange;">오주엽</span>  
+### 오주엽  
 - **성격 유형**: <span style="color:blue;">ENTP</span>  
 - **관심사**: 게임  
 - **활동**: 정보보호연구실 학부 연구생  
 
-### <span style="color:orange;">김예향</span>  
+### 김예향 
 - **성격 유형**: <span style="color:blue;">ISTJ</span>  
 - **관심사**: 여행, 계획 세우기  
 - **특기**: AI-CV 분야 프로젝트 진행 중  
@@ -45,7 +45,7 @@ A creative way to encourage everyone to think and share ideas.
 ---
 
 <!-- 알아보고 싶은 것들과 공통 관심사 등 -->
-## 앞으로 알아보고 싶은 것  
+## <span style="color:orange;">알아보고 싶은 것</span>  
  
 1. 멘토링 시스템  
 2. 자율 주행 경진대회  
@@ -53,7 +53,7 @@ A creative way to encourage everyone to think and share ideas.
 
 ---
 
-## 공통적인 관심사  
+## <span style="color:orange;">공통적인 관심사</span>
 
 1. AI
 2. 정보보안
@@ -64,9 +64,10 @@ A creative way to encourage everyone to think and share ideas.
 
 <!-- 주요 활동 소개
   사진 + 정리 필요-->
-## 주요 활동 소개
+## <span style="color:orange;">주요 활동 소개</span>
 ---
 ### 인상깊었던 활동 1
+
  **- 교수님과의 면담** **- 윤상민 교수님 -**  
  
  **면담 목적** : 팀의 관심사 중 인공지능 분야에 대한 진로탐색과 소프트웨어융합대학의 해외 프로그램에 대해 알아보고자 하였다.
@@ -97,6 +98,7 @@ A creative way to encourage everyone to think and share ideas.
 ---
 
 ### 인상깊었던 활동 3
+
 **- 대학원생과의 면담** **-HCI 한희태님-**
 
 **면담 목적** : 팀의 관심사 중 인공지능 분야와 대학원 진학에 알아보기 위해 면담을 신청하였다.
@@ -157,3 +159,6 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
+🟥 빨간색  
+🟦 파란색  
+🟩 초록색  
