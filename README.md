@@ -20,7 +20,7 @@ A creative way to encourage everyone to think and share ideas.
 ---
 <!-- 팀원에 대한 간단한 소개 -->
 
-## <span style="color:orange;">팀원 소개</span> 
+### <span style="color:orange;">팀원 소개</span> 
 
 ### 박상현
 - **성격 유형**: <span style="color:blue;">ENTJ</span>  
@@ -45,7 +45,7 @@ A creative way to encourage everyone to think and share ideas.
 ---
 
 <!-- 알아보고 싶은 것들과 공통 관심사 등 -->
-## <span style="color:orange;">알아보고 싶은 것</span>  
+### <span style="color:orange;">알아보고 싶은 것</span>  
  
 1. 멘토링 시스템  
 2. 자율 주행 경진대회  
@@ -53,7 +53,7 @@ A creative way to encourage everyone to think and share ideas.
 
 ---
 
-## <span style="color:orange;">공통적인 관심사</span>
+### <span style="color:orange;">공통적인 관심사</span>
 
 1. AI
 2. 정보보안
@@ -64,7 +64,7 @@ A creative way to encourage everyone to think and share ideas.
 
 <!-- 주요 활동 소개
   사진 + 정리 필요-->
-## <span style="color:orange;">주요 활동 소개</span>
+### <span style="color:orange;">주요 활동 소개</span>
 ---
 ### 인상깊었던 활동 1
 
@@ -117,7 +117,7 @@ A creative way to encourage everyone to think and share ideas.
 ---
 
 <!-- 알게된 것들 -->
-## 그 외의 활동으로 알게 된 것들
+### 그 외의 활동으로 알게 된 것들
  1. GPU 서버사용
  2. 자율주행 경진대회
  3. 멘토링 시스템
@@ -125,7 +125,7 @@ A creative way to encourage everyone to think and share ideas.
 ---
 
 <!-- 각자 소감 정리 -->
-## 활동 소감
+### 활동 소감
 
 **김예향** : 한 학기 동안 다양한 활동을 하며 바쁘기도 했지만, 얻어가는게 많은 수업이었다. 특히 교수님들과의 면담과 선배님과의 멘토링을 통해서 나의 진로와 세부 분야에 대한 방향성을 정하는데 도움이 되어 뜻깊었고, 흥미있는 새로운 분야도 찾게되어 좋았다.
 
