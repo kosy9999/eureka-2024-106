@@ -68,7 +68,7 @@ A creative way to encourage everyone to think and share ideas.
 ---
 ### 인상깊었던 활동 1
 
- **- 교수님과의 면담** **- 윤상민 교수님 -**  
+ **- 교수님과의 면담 : 윤상민 교수님 -**  
  
  **면담 목적** : 팀의 관심사 중 인공지능 분야에 대한 진로탐색과 소프트웨어융합대학의 해외 프로그램에 대해 알아보고자 하였다.
  
@@ -83,7 +83,7 @@ A creative way to encourage everyone to think and share ideas.
 
 ### 인상깊었던 활동 2
 
-**- 교수님과의 면담** **- 윤명근 교수님 -**  
+**- 교수님과의 면담 : 윤명근 교수님 -**  
  
  **면담 목적** : 인공지능을 활용한 보안에 관련해 최신 트렌드와 취업 및 진로를 알아보기 위해 면담을 신청하였다.
  
@@ -99,7 +99,7 @@ A creative way to encourage everyone to think and share ideas.
 
 ### 인상깊었던 활동 3
 
-**- 대학원생과의 면담** **-HCI 한희태님-**
+**- 대학원생과의 면담 : HCI 한희태님-**
 
 **면담 목적** : 팀의 관심사 중 인공지능 분야와 대학원 진학에 알아보기 위해 면담을 신청하였다.
 
@@ -113,7 +113,7 @@ A creative way to encourage everyone to think and share ideas.
 ---
 
 ### 인상깊었던 할동 4
-**- 멘토링 시스템 체험** **- 홍승환 멘토님-**
+**- 멘토링 시스템 체험 : 홍승환 멘토님-**
 ---
 
 <!-- 알게된 것들 -->
