@@ -63,7 +63,7 @@ A creative way to encourage everyone to think and share ideas.
   사진 + 정리 필요-->
 ## 주요 활동 소개  
 ### 인상깊었던 활동 1
- **- 교수님과의 면담 - 윤상민 교수님 - **  
+ **- 교수님과의 면담** **- 윤상민 교수님 -**  
  면담 목적
  주요 질문
  답변
