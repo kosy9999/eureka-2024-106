@@ -52,11 +52,9 @@ A creative way to encourage everyone to think and share ideas.
 
 ## 공통적인 관심사  
 <div class="container">
- 1. AI
- 
- 2. 정보보안
- 
- 3. 대학원 등의 추가 학위 취득에 관해
+1. AI
+2. 정보보안
+3. 대학원 등의 추가 학위 취득에 관해
 </div>  
 
 ---
