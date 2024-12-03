@@ -17,6 +17,7 @@ A creative way to encourage everyone to think and share ideas.
 
 자신을 찾아가는 과정에서 학부생으로서의 도전을 확립하자는 의미
 
+---
 <!-- 팀원에 대한 간단한 소개 -->
 
 ## 팀원 소개  
