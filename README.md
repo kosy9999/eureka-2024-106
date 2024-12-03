@@ -105,6 +105,8 @@ A creative way to encourage everyone to think and share ideas.
 <!-- 각자 소감 정리 -->
 ## 활동 소감
 
+**김예향** : 한 학기 동안 다양한 활동을 하며 바쁘기도 했지만, 얻어가는게 많은 수업이었다. 특히 교수님들과의 면담과 선배님과의 멘토링을 통해서 나의 진로와 세부 분야에 대한 방향성을 정하는데 도움이 되어 뜻깊었고, 흥미있는 새로운 분야도 찾게되어 좋았다.
+
 ---
 
 ## <span style="color:orange;">감사합니다!</span>  
