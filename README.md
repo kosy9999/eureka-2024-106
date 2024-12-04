@@ -1,6 +1,3 @@
-<!-- CSS 
-<link rel="stylesheet" href="theme.css">
--->
 
 ## <span style="color:green;">유레카 프로젝트 6조</span>  
 
@@ -29,7 +26,7 @@
 ### 고신영   
 - **성격 유형**: <span style="color:blue;">INFJ</span>  
 - **관심사**: 운동, 베이스 기타 치기  
-- **특기**: AI를 활용한 생체 데이터 분석  
+- **관심 분야**: AI를 활용한 생체 데이터 분석  
 
 ### 오주엽  
 - **성격 유형**: <span style="color:blue;">ENTP</span>  
@@ -39,7 +36,7 @@
 ### 김예향 
 - **성격 유형**: <span style="color:blue;">ISTJ</span>  
 - **관심사**: 여행, 계획 세우기  
-- **특기**: AI-CV 분야 프로젝트 진행 중  
+- **활동**: AI-CV 분야 프로젝트 진행 중  
  
 ---
 
@@ -118,6 +115,8 @@
 ---
 ### 인상깊었던 활동 사진 📸✨
 ![image](https://github.com/user-attachments/assets/9793b758-8c62-413b-891e-0c7c588045d2)
+
+---
 
 <!-- 알게된 것들 -->
 ### 그 외의 활동과 활동으로 알게 된 것들 💡
