@@ -10,7 +10,7 @@
 ### <span style="color:orange;">Team Slogan</span>
 학부생으로서의 도전,  유레카 프로젝트에서 확립
 
-
+![teamslogan](https://github.com/user-attachments/assets/646b9c75-3e35-48df-a844-411f1a4fb4ed)
 
 '유레카'는 보통 뜻밖의 발견을 했을 때 사용하는 감탄사로 잘 알려져 있지만, 어원을 보면 '나는 찾는다'라는 의미를 가짐.
 
