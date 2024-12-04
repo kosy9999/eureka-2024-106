@@ -3,7 +3,6 @@
 -->
 
 ## <span style="color:green;">유레카 프로젝트 6조</span>  
-A creative way to encourage everyone to think and share ideas.
 
 ---
 <!-- slogan 
@@ -117,15 +116,20 @@ A creative way to encourage everyone to think and share ideas.
 ---
 
 <!-- 알게된 것들 -->
-### 그 외의 활동으로 알게 된 것들
+### 그 외의 활동과 활동으로 알게 된 것들
  1. GPU 서버사용
  2. 자율주행 경진대회
  3. 멘토링 시스템
+ 4. 정통처 서비스 및 시설
+ 5. 서버실
+
+---
+<!-- 발표 때 받은 질의 응답 -->
 
 ---
 
 <!-- 각자 소감 정리 -->
-### 활동 소감
+### 활동 소감 및 각자 각오
 
 **김예향** : 한 학기 동안 다양한 활동을 하며 바쁘기도 했지만, 얻어가는게 많은 수업이었다. 특히 교수님들과의 면담과 선배님과의 멘토링을 통해서 나의 진로와 세부 분야에 대한 방향성을 정하는데 도움이 되어 뜻깊었고, 흥미있는 새로운 분야도 찾게되어 좋았다.
 
@@ -133,32 +137,7 @@ A creative way to encourage everyone to think and share ideas.
 
 ---
 
-## <span style="color:orange;">감사합니다!</span>  
-**Thank You!**  
+## <span style="color:orange;">감사합니다!</span>    
 유레카 프로젝트 6조
 
-## Markdown을 사용하여 내용꾸미기
 
-Markdown은 작문을 스타일링하기위한 가볍고 사용하기 쉬운 구문입니다. 여기에는 다음을위한 규칙이 포함됩니다.
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-🟥 빨간색  
-🟦 파란색  
-🟩 초록색  
